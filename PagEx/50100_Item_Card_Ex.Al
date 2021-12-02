@@ -140,7 +140,7 @@ pageextension 50100 "Item_Card_Ex ERPG" extends "Item Card"
         {
             action("ERP-TEST")
             {
-                Caption = 'ERP-IMP';//
+                Caption = 'ERP-IMP';
                 ApplicationArea = All;
 
                 trigger OnAction()
