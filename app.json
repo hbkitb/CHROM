@@ -1,0 +1,26 @@
+{
+  "id": "47e54784-90ee-466a-80c1-9ed4447e8e00",
+  "name": "CHROM",
+  "publisher": "ITBASEN",
+  "version": "1.0.0.4",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "LOGO/ERPgruppen-logo_ext.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 71000
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://CHROM.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
